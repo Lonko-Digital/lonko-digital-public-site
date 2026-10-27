@@ -1,0 +1,64 @@
+# Future PUBLIC publishing repository workflow (prototype — not installed on GitHub).
+# Artifact isolation: only `site/` is uploaded to Pages. `.github/` and `controls/`
+# remain in the git repo for CI/control and are never part of the Pages artifact.
+#
+# Triggers: push to main (release) + manual workflow_dispatch only.
+# No pull_request trigger (avoids duplicate public Actions minutes).
+#
+# Permissions (least privilege):
+#   validate: contents: read
+#   deploy:   contents: read, pages: write, id-token: write
+#
+# Expected wall time: ~1–3 minutes. Public-repo Actions: $0 on standard runners.
+
+name: Deploy public marketing site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: public-marketing-pages
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gate site artifact + repo layout
+        run: >
+          python -B controls/check_publishing_manifest.py
+          --site-root site
+          --manifest controls/site-file-manifest.json
+          --repo-root .
+
+  deploy:
+    needs: validate
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload allowlisted site only
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

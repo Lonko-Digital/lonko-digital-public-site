@@ -1,0 +1,399 @@
+{
+  "source_sha": "f6b828f59400f5c39091324166965657e25b9b85",
+  "a1_note": "CNAME omitted for A1 github.io preview only; domain cutover deferred to A2",
+  "file_count": 98,
+  "files": {
+    ".nojekyll": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "404.html": {
+      "sha256": "682766e7f12549810772233fe71a88e0071e64c8f4e99c3ea76a76180156abd3",
+      "bytes": 3922
+    },
+    "about/index.html": {
+      "sha256": "18fcb060649d16ccba18957f732dd6a76025db11f1180fae9e7dbb71875a3840",
+      "bytes": 24782
+    },
+    "assets/css/chronicles-notes.css": {
+      "sha256": "e797d941de05a246f8efceb768c08397a9863b56e7f2c60a4ba43002b81259f9",
+      "bytes": 4185
+    },
+    "assets/css/contact-form.css": {
+      "sha256": "49cab25532ed4e527f80908c07610868b7240b3abc9802ccbe87113920c3d8c5",
+      "bytes": 7076
+    },
+    "assets/css/notes-confirmed.css": {
+      "sha256": "ce892b1382c88551124769552da0e96dcb8f3c18f1e978af3e9a30eebe45b4ad",
+      "bytes": 14927
+    },
+    "assets/css/site.css": {
+      "sha256": "b96fe4ce83c8c765a650579a0a2650416f42b4e98f6ad6fa17af50a8b6fae06d",
+      "bytes": 67527
+    },
+    "assets/fonts/LICENSE.md": {
+      "sha256": "1c1dd2a2d4dfcccf9c008c58f054b6563eb235cf21f445fc01559c68d4c62337",
+      "bytes": 4585
+    },
+    "assets/fonts/source-serif-4-bold.woff2": {
+      "sha256": "5f1cb885133b1c8be99e2be1249d12c170d21e98f6391bf8421deecbf45e1e78",
+      "bytes": 12428
+    },
+    "assets/fonts/source-serif-4-regular.woff2": {
+      "sha256": "7c85347e92dffae373e5038ef1139272dc8f949d46a487658215de3deee0f470",
+      "bytes": 11732
+    },
+    "assets/fonts/source-serif-4-semibold.woff2": {
+      "sha256": "28b0788e7b06731e2ccbe8b4eb76a3cc99175b7d5bd47368f82e5a12eafea677",
+      "bytes": 12488
+    },
+    "assets/images/favicon.ico": {
+      "sha256": "12f60d9fb866a50c0d685320a68146e3b6dc94422321738be7cae78d3e021e6a",
+      "bytes": 850
+    },
+    "assets/images/lonko-logo-512.png": {
+      "sha256": "57cf17262d78a7e0448fc3ea6bfbdc4f0817765f7130f1a4568b797c27cb615d",
+      "bytes": 158948
+    },
+    "assets/images/lonko-logo-512.webp": {
+      "sha256": "b10774821bb2bdfaadcc8594c9c8324dfca867b66663a47825b90282a49287e1",
+      "bytes": 43244
+    },
+    "assets/images/lonko-logo.png": {
+      "sha256": "349bba980ba44c6ccec124d0101cf31125a3410d8411c38e2bac4bba94a8d29d",
+      "bytes": 8745
+    },
+    "assets/images/lonko-logo.webp": {
+      "sha256": "2a3ecc004dbc4f19b3f8b692cc187c30fcb06b60b36e864dd66e39cc3b740633",
+      "bytes": 3184
+    },
+    "assets/images/og-share.png": {
+      "sha256": "ee514babba2e3c9739e932f513dfbd9b3dce685e86137dbb6aedfaa9c8b1c183",
+      "bytes": 33915
+    },
+    "assets/js/site.js": {
+      "sha256": "024f558aece2599ce3b5b100e6ba4c93932489884021d98917373289c52f8a5c",
+      "bytes": 3954
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-chart-local-pack-vs-ai-overview-900.webp": {
+      "sha256": "a7f6b9e2a87bb49a987f1036c45b0bb7f0c7ff2aa5264a01665ab36f2a7a26f8",
+      "bytes": 3330
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-chart-local-pack-vs-ai-overview.png": {
+      "sha256": "250681a18acea0a72b7f102407b9c2017eeefe2298b5e38f7d88568d23ffd72c",
+      "bytes": 5169
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-hero-1600x900-1200.webp": {
+      "sha256": "73b895736f0985c98cda34ee5356a247f46fbb72bb19eb43fe3b7b4cf0f48919",
+      "bytes": 75870
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-hero-1600x900-1600.webp": {
+      "sha256": "1d460dff3f5746988607894f05b267b469395fa5dc204bbd5b92018a0f29c674",
+      "bytes": 107390
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-hero-1600x900-480.webp": {
+      "sha256": "41b2dbc54fcc8e8efbdec318edf378ef91d3a6279a5f13312cd64491e8654dd7",
+      "bytes": 22176
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-hero-1600x900-800.webp": {
+      "sha256": "9a0ae6a1369635c17703fc5e6cc201249667b132a04028d4e0759cb463328289",
+      "bytes": 44528
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-hero-1600x900.png": {
+      "sha256": "e3a6e87e5a47d17d3a7ff8ab9f7a92a4e442efd3b42e74022058445778b73b7f",
+      "bytes": 1819463
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-social-1200x628-1200.webp": {
+      "sha256": "d58e00dfd63da33c30c08b3439e4754fae7144946d60097dae3ca84a2eba94df",
+      "bytes": 751270
+    },
+    "chronicles/ai-overviews-local-search-what-changed/assets/ai-overviews-local-search-what-changed-social-1200x628.png": {
+      "sha256": "e2b876681829452aba1af272a031913cc1623e46cf2d751b3067aa68ad287ce8",
+      "bytes": 1011160
+    },
+    "chronicles/ai-overviews-local-search-what-changed/index.html": {
+      "sha256": "8dbe674a154e21bdf795d1370e1f01c1a15a21739bd94703dcf2f41296fd9c2c",
+      "bytes": 28000
+    },
+    "chronicles/assets/chronicles.js": {
+      "sha256": "0acdfe76ceb24c3cb6223177e785f54593af91fc0651e8f3e4c1e34946e27dc2",
+      "bytes": 12924
+    },
+    "chronicles/assets/search-index-a.json": {
+      "sha256": "6b3d0bc72ef60eff8a2808a64143886a76ce0f5dc8c84e7ac105bafaeaad8374",
+      "bytes": 3168
+    },
+    "chronicles/assets/search-index-b.json": {
+      "sha256": "7366e2ca5599d567a6987564b292fed1405b65d965f47240a2063538c7d83bd8",
+      "bytes": 54367
+    },
+    "chronicles/assets/search-index.json": {
+      "sha256": "7366e2ca5599d567a6987564b292fed1405b65d965f47240a2063538c7d83bd8",
+      "bytes": 54367
+    },
+    "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-hero-1600x900-1200.webp": {
+      "sha256": "9d18f43aa95a676ba029e7909720618841a178c9dd5842ee5830d75c427a9843",
+      "bytes": 112458
+    },
+    "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-hero-1600x900-1600.webp": {
+      "sha256": "940db92240aefea4f119b68aea5e5476333bccde927c9fd3ad57c5224deea9e2",
+      "bytes": 164714
+    },
+    "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-hero-1600x900-480.webp": {
+      "sha256": "e270ebe31db7055940d78183b11219b0627c39b0a5333038be4b51449bcea408",
+      "bytes": 30162
+    },
+    "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-hero-1600x900-800.webp": {
+      "sha256": "e6bf72eddddc1ed407a56be89e552bc6e43a783307ba95de4507239a0e6cec5c",
+      "bytes": 63212
+    },
+    "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-hero-1600x900.png": {
+      "sha256": "371814f28c62da4565f4b6f8702dc77486b0c37bc3586e7505c6f5d753209f61",
+      "bytes": 2104476
+    },
+    "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-social-1200x628-1200.webp": {
+      "sha256": "70ef651c66bf6c322fc932e5fbb568d4c4e7ff7714edb44fba5312dea9300d18",
+      "bytes": 865230
+    },
+    "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-social-1200x628.png": {
+      "sha256": "ce45d17c9b02df3b0730925beb362f02f5b3a24a7ff921cd290843c9e7ba0064",
+      "bytes": 1179292
+    },
+    "chronicles/chatgpt-ads-small-business-what-changed/index.html": {
+      "sha256": "a7f668c11191228a3c96b45772fbbe8d7a420bb00b2f7f526e438fc3ac50ac8b",
+      "bytes": 26758
+    },
+    "chronicles/feed.xml": {
+      "sha256": "8c6496451ac995f97119f1685474fac297a5f949732d5bd257fbf89598c3be7b",
+      "bytes": 3137
+    },
+    "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-hero-1600x900-1200.webp": {
+      "sha256": "56f4bb5275e329ba46fa219d082acb915d07e743d2ed6ac8c5abe57289f67585",
+      "bytes": 89224
+    },
+    "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-hero-1600x900-1600.webp": {
+      "sha256": "f7332345df92d96a64a0b829126ba3e88019d11ef32cec00ce5f2acdc5031dda",
+      "bytes": 125392
+    },
+    "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-hero-1600x900-480.webp": {
+      "sha256": "e3f893405136027e88f2d1abe455bb5e7ebf781f155bac4614d5593d9e209360",
+      "bytes": 26810
+    },
+    "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-hero-1600x900-800.webp": {
+      "sha256": "ae1c03231824eb2bdd91b2ef1a144633d5adca598a32403577516544092512f5",
+      "bytes": 53400
+    },
+    "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-hero-1600x900.png": {
+      "sha256": "d0f52abc3b33585dfb85b5bc3b2e34fb7daa852e9db5916506ed141f7246411c",
+      "bytes": 1969095
+    },
+    "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-social-1200x628-1200.webp": {
+      "sha256": "8c6a9efcc09bfce86ff6d21793e5496b4922c58c60cd9584496e63d24d2c60b7",
+      "bytes": 786252
+    },
+    "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-social-1200x628.png": {
+      "sha256": "84f8184533b93244184b6d8b50de481d036258845a9659c6e7fd5c0f74fce414",
+      "bytes": 1104002
+    },
+    "chronicles/google-ads-ai-max-migration-what-changed/index.html": {
+      "sha256": "7c420a1961b900ddd2ad45ab99e0d2e86ded844f9f0bdd8fa347bf9f86a6fd3f",
+      "bytes": 30779
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-chart-budget-threshold-comparison-2400.webp": {
+      "sha256": "249334832ef32a27fc7bdca15d68808433b5803a0678fff0e4c07f68d0e007b9",
+      "bytes": 60234
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-chart-budget-threshold-comparison.png": {
+      "sha256": "4bb53d4740e98f4782d450882f788fea43ae9d8fd48660d59da5e3cb83b1329c",
+      "bytes": 178549
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-hero-1600x900-1200.webp": {
+      "sha256": "9dc8cfcef2336a0a3d3c1bcb3a332e2f901afa26e3165380bf37032a0e76441c",
+      "bytes": 73534
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-hero-1600x900-1600.webp": {
+      "sha256": "3262b44f17d7d5aa2bc1458c8f015ac7e6cbd3cc298a9d19cded886f75e43c1e",
+      "bytes": 102666
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-hero-1600x900-480.webp": {
+      "sha256": "6117ab70644931fbfbac994783525aa26bc42f1d7c7e7616e93a78ace8576eb4",
+      "bytes": 23304
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-hero-1600x900-800.webp": {
+      "sha256": "c8cc0483984bbc40ff0398845c5a7a990d1e7b2c5f8be72f77ec2b13db88856e",
+      "bytes": 44188
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-hero-1600x900.png": {
+      "sha256": "454ca18bdced7c7e4b5621799a7966c9fc1af4063135061cfa48169edc0fa675",
+      "bytes": 1774622
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-social-1200x628-1200.webp": {
+      "sha256": "dd6b5c0e276520946866c3d3d0392a8505fe7ab4af026dfa19b27ef96854cb2d",
+      "bytes": 785976
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-social-1200x628.png": {
+      "sha256": "a9accf3ea0783b519dda3b57bd5a38e7799281a251122c0c1bb1466c6a56e548",
+      "bytes": 1052060
+    },
+    "chronicles/google-conversion-lift-small-business-eligibility/index.html": {
+      "sha256": "fac58b363cff521f9caa6bc46560f56581c2e8a8338089599ac6e2e7c50f573d",
+      "bytes": 28706
+    },
+    "chronicles/index.html": {
+      "sha256": "72b8bc08e7abeb807d42662f6c41fd7297fba90a9d3436c5ae1b826ccd77ba0c",
+      "bytes": 24896
+    },
+    "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-hero-1600x900-1200.webp": {
+      "sha256": "e5b489db2b7e388030a5013700c6a22c3dba34d50f9e8d7896e49fecd004205f",
+      "bytes": 70688
+    },
+    "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-hero-1600x900-1600.webp": {
+      "sha256": "4b064f3a0887eb637fcf2b0dbb3cf62862b6e85e12979bc775e736e278808783",
+      "bytes": 100548
+    },
+    "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-hero-1600x900-480.webp": {
+      "sha256": "681496251751e97f05b83a4276794748b412861ee28e9c47ea9acb68ad891ae9",
+      "bytes": 20680
+    },
+    "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-hero-1600x900-800.webp": {
+      "sha256": "fb824ed2b218f514297ae1eb6d04d7243aac8f4c79efe428886e67427decbb2e",
+      "bytes": 41192
+    },
+    "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-hero-1600x900.png": {
+      "sha256": "f5d252215b9086bd6938ede92fc275f54a16f345bcc9c540b743753b35e9314a",
+      "bytes": 1760892
+    },
+    "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-social-1200x628-1200.webp": {
+      "sha256": "b7314fe17a2dd9236398207f2fc79e479e7863586c1fae62a1c3d0cf84bc8235",
+      "bytes": 737108
+    },
+    "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-social-1200x628.png": {
+      "sha256": "e860b9e9abc86e8698056c47c27d2d7038d9decc33e3c4bafbdf947882c2842c",
+      "bytes": 990812
+    },
+    "chronicles/local-services-ads-new-billing-rules-what-changed/index.html": {
+      "sha256": "689230ba2835c83302f15667d1ac51ba122ed568481bb0aaf20953c3b16dcece",
+      "bytes": 28010
+    },
+    "chronicles/meta-product-browsing-opt-out/assets/meta-product-browsing-opt-out-hero-1600x900-1200.webp": {
+      "sha256": "dc7bcc09de9571b839c50954362556a6c2e1f76c944615b64b25b7c96adfed7f",
+      "bytes": 72284
+    },
+    "chronicles/meta-product-browsing-opt-out/assets/meta-product-browsing-opt-out-hero-1600x900-1600.webp": {
+      "sha256": "c405fae9445894da7320467c26c0a7f34a405644b80b799407cb87aa51cb37c5",
+      "bytes": 100944
+    },
+    "chronicles/meta-product-browsing-opt-out/assets/meta-product-browsing-opt-out-hero-1600x900-480.webp": {
+      "sha256": "dc990dafb17b13c96e7b49cfb35e3acbb01f3b3c59819c4da31489f8aa24dff4",
+      "bytes": 22700
+    },
+    "chronicles/meta-product-browsing-opt-out/assets/meta-product-browsing-opt-out-hero-1600x900-800.webp": {
+      "sha256": "551b6524742f47054202b5889a99d55a12868b97b35060bfeda744811117d4fe",
+      "bytes": 43914
+    },
+    "chronicles/meta-product-browsing-opt-out/assets/meta-product-browsing-opt-out-hero-1600x900.png": {
+      "sha256": "cbf7376b58ca0eaed60bd5af5d7b78b0a7608d3db59d9b22bed7abb0c65b8990",
+      "bytes": 1776126
+    },
+    "chronicles/meta-product-browsing-opt-out/assets/meta-product-browsing-opt-out-social-1200x628-1200.webp": {
+      "sha256": "c44db27d6c872dbf6225ed959942634b58ebfb282f67688e81dea68e2e3c109e",
+      "bytes": 676660
+    },
+    "chronicles/meta-product-browsing-opt-out/assets/meta-product-browsing-opt-out-social-1200x628.png": {
+      "sha256": "6c7c865c61be47d7d9e38a68e600fde39c4e9b43f3780f381af8540fc66232fd",
+      "bytes": 919380
+    },
+    "chronicles/meta-product-browsing-opt-out/index.html": {
+      "sha256": "298078b6fd085267f9455b3b2413ff63e6b5364966fa7972fe7c5c95caf39a30",
+      "bytes": 31568
+    },
+    "chronicles/search/index.html": {
+      "sha256": "248c8eb6cdeeafbba6a8e73b03d28bedcae9955eb9a3c410df076e1b05fb299a",
+      "bytes": 6086
+    },
+    "contact/index.html": {
+      "sha256": "0f4f9a9af850890d86ed4cdc04b0439a6d6e2281e86bdeb18b11ec7e8238f971",
+      "bytes": 17626
+    },
+    "index.html": {
+      "sha256": "c205bed58e3e01df04717a5fa5b5686de480649c5dc84ec3b82ea83771ddd017",
+      "bytes": 31860
+    },
+    "insights/before-you-increase-your-budget/index.html": {
+      "sha256": "8a14b70780c99d0fc0d8572a7f9dd36652d55f9b8ff4af571e54bab5162c4603",
+      "bytes": 12671
+    },
+    "insights/clicks-but-no-leads/index.html": {
+      "sha256": "7356f24e65688a05db971a6dc64a65cf1fedd3ad086d8eff1a42480dbcb2929d",
+      "bytes": 22603
+    },
+    "insights/how-to-read-a-recommendation/index.html": {
+      "sha256": "59b73877a11030211d7bce0b385fc47d50939e06da054501f9b3ac725738349a",
+      "bytes": 15748
+    },
+    "insights/index.html": {
+      "sha256": "0044d1138ece42b77c80daca15fe2a49f52a725d8fa1fe26bd152f491442d374",
+      "bytes": 15243
+    },
+    "insights/is-your-google-ads-agency-doing-a-good-job/index.html": {
+      "sha256": "2e15e297eda1ef83c28c6ba94859baf622b54be59c0dd594489200d85ec8c59a",
+      "bytes": 21096
+    },
+    "insights/marketing-data-second-job/index.html": {
+      "sha256": "19b52892e3f9b2be163d50108b994a399f99d6f8df5d352e641b6941f160e9a9",
+      "bytes": 12693
+    },
+    "insights/one-good-week-isnt-a-trend/index.html": {
+      "sha256": "d47a46f006ebe1d87844753c994f7af79cafbb9091fd534318b0644d0ade7a0e",
+      "bytes": 13116
+    },
+    "insights/real-cost-of-not-tracking-conversions/index.html": {
+      "sha256": "07dc03686737301b0896027fcc28845c0d79a47439e0039998c89b3cfeac260d",
+      "bytes": 14115
+    },
+    "insights/what-to-look-at-first/index.html": {
+      "sha256": "5afd892074a33f0f3ce690c64c39172426a6905be929eb925b9ee539a4f27be2",
+      "bytes": 13595
+    },
+    "insights/what-working-actually-means/index.html": {
+      "sha256": "dd0198143decdc2d8f7c43cd4315641948f3ee257ccae93f6c020521b89d247e",
+      "bytes": 12683
+    },
+    "insights/why-clicks-dont-feel-like-progress/index.html": {
+      "sha256": "3070b10683bef088006273a680f716cd06d53d2c053ea1ed3e910dc4aee14cce",
+      "bytes": 12391
+    },
+    "llms.txt": {
+      "sha256": "7d19a4d5868fd9744a6dc9d64d2034982bceb5fbb071abb70d36400de9eaa541",
+      "bytes": 1258
+    },
+    "notes/confirmed/index.html": {
+      "sha256": "4ddbaeeb7cabc257ef2d7a75185d885faefcb3d6abbb818288c3082d8bc55079",
+      "bytes": 19566
+    },
+    "privacy/index.html": {
+      "sha256": "0532f54c26963081138ddf7d4fa47e9db2655e592737536201b2e0276733b207",
+      "bytes": 17614
+    },
+    "robots.txt": {
+      "sha256": "d38b4feaa6832d273eafa84289012fff09f0366c909b2dea9b095c34de592ca2",
+      "bytes": 136
+    },
+    "sitemap-chronicles.xml": {
+      "sha256": "d441031930157feb261f0697d54c155299db30ea6fd4b95e3cefa8ca187e9ecd",
+      "bytes": 1077
+    },
+    "sitemap-pages.xml": {
+      "sha256": "4cad11e61f18dd799dc1349a90f3228773953cb353af253e66e7c1c8c09e0c87",
+      "bytes": 1728
+    },
+    "sitemap.xml": {
+      "sha256": "217d62d4bd8f0ca8575c2cd611bfaac8e8de8f190102dac513ae8c19fa3200df",
+      "bytes": 302
+    },
+    "terms/index.html": {
+      "sha256": "a5e96ec6c1a26cdd44693a555d874a18a06eccb039c3c508e654fb443d343bdc",
+      "bytes": 11561
+    }
+  }
+}

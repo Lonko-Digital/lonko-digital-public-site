@@ -1,0 +1,25 @@
+# Lonko Digital
+
+> Lonko Digital is a growth intelligence and optimization company building technology that helps businesses understand what is happening across their digital marketing, why it matters, and what to look at next.
+
+Lonko Digital is an early-stage company. This website is informational and does not currently offer public customer accounts, subscriptions, or commercial software access. No Lonko product is available to customers today.
+
+## What exists today
+
+- Paid growth: Building. Google Ads is a private reference implementation under continued private validation. LinkedIn Ads integration is under development. Live API data delivery has not yet been validated. Status: In Development. Meta Ads is planned. None of these is available to customers.
+- Search, AI discovery and market research: Planned
+- Analytics and tracking: Planned
+- Web, conversion and lifecycle: Planned
+- Business economics: Planned
+
+## Contact
+
+lonkodigital@gmail.com
+
+## Learn more
+
+- About: /about/
+- Insights: practical guidance on how to read marketing numbers and what to check first. /insights/
+- Chronicles: changes in the platforms and what they mean for a business. /chronicles/
+- Privacy Policy: /privacy/
+- Terms of Use: /terms/

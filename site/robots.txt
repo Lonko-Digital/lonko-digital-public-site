@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /chronicles/search
+Disallow: /chronicles/content/
+
+Sitemap: https://lonkodigital.com/sitemap.xml
