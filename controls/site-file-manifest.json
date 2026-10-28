@@ -1,6 +1,6 @@
 {
-  "source_sha": "46037e3553eee12ec1f8b16ca79fb486344457cd",
-  "file_count": 99,
+  "source_sha": "e32906e514250e53086559947d0d87b738b1b4eb",
+  "file_count": 100,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -330,13 +330,17 @@
       "sha256": "7d302bcf513d1be9cf522c93097c68ad9401428919439c434d751b6da2f776be",
       "bytes": 22310
     },
+    "insights/facebook-instagram-ads-cost/index.html": {
+      "sha256": "dca4cdfdce0bf8848cb6e060f48366526db583b99eccc9314d1cf34e0d106b7d",
+      "bytes": 28292
+    },
     "insights/how-to-read-a-recommendation/index.html": {
       "sha256": "7eae4011e2cc1421f76192131f44408ca1e4ddbc153405f7bcdc7edd1918b3a2",
       "bytes": 15514
     },
     "insights/index.html": {
-      "sha256": "624df851fb029494fef6273c4b5fae40bbbb303340a08c9a3b5298c5ed59c3d6",
-      "bytes": 15004
+      "sha256": "04ab5a31d4512df0b6f065226bf460426820a1703c0db1fedfff3784a884dd3f",
+      "bytes": 15402
     },
     "insights/is-your-google-ads-agency-doing-a-good-job/index.html": {
       "sha256": "f9133979cba29df4606330821ce24c742f574ccbd78c2dd7769e12018aae31a4",
@@ -387,8 +391,8 @@
       "bytes": 1047
     },
     "sitemap-pages.xml": {
-      "sha256": "ac6b582f16de001176e5507918c5faf68af3277eafe889a478dc7cf5894860e1",
-      "bytes": 1601
+      "sha256": "bd8a6d3f09848796d6f605fd1192d4729009b413cd4203f5e8488cee5c7db2e7",
+      "bytes": 1730
     },
     "sitemap.xml": {
       "sha256": "ef08ab92ca2a570b470e89f8ae7177a1bc5588498d87fb43fed82f5d2448b9a5",
