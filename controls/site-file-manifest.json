@@ -1,5 +1,5 @@
 {
-  "source_sha": "eabc68d25354ac593078b41f1e005deaf266641e",
+  "source_sha": "99fadd16e04c65a3157539f9b36035a3f2ae7acc",
   "file_count": 108,
   "files": {
     ".nojekyll": {
@@ -331,12 +331,12 @@
       "bytes": 22310
     },
     "insights/facebook-instagram-ads-cost/index.html": {
-      "sha256": "dca4cdfdce0bf8848cb6e060f48366526db583b99eccc9314d1cf34e0d106b7d",
-      "bytes": 28292
+      "sha256": "5216c6f56318c0067dd512b5fcd74284ebe819191a32945ce08ca3cdcab2254c",
+      "bytes": 28276
     },
     "insights/google-ads-conversions-dropped/index.html": {
-      "sha256": "717b2461986649545c6b4090431a40564ecf5938074dd8603959450b070b84ff",
-      "bytes": 14147
+      "sha256": "c32a420b51c8e429bb19f780ee6c4c6a40a0a8c523eb7bdd45d9c6d9a3ad08a0",
+      "bytes": 14139
     },
     "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-hero-1280.webp": {
       "sha256": "e8ddfd07de7272d4d00d6456c075b0d999abf230a4f54db2546dd90df3a53789",
@@ -363,16 +363,16 @@
       "bytes": 398081
     },
     "insights/how-much-does-google-ads-cost/index.html": {
-      "sha256": "0ad040982213f60700d54de0d8c41ac504e8638d443a6534a003c798998e26c3",
-      "bytes": 24268
+      "sha256": "ba070758dc71ce3911bf0afb056a0a336c02f543c88d52c21f23c594bd25b625",
+      "bytes": 24252
     },
     "insights/how-to-read-a-recommendation/index.html": {
       "sha256": "7eae4011e2cc1421f76192131f44408ca1e4ddbc153405f7bcdc7edd1918b3a2",
       "bytes": 15514
     },
     "insights/index.html": {
-      "sha256": "1ca3ac3663f13ae3e8e3cec2fd1a4460cba05066ba9475ee36db8b53a5015687",
-      "bytes": 16361
+      "sha256": "b5e32b851ab10dc2e90ded0673e479d8f11fd32442ac3905d2b0975803b75f46",
+      "bytes": 16353
     },
     "insights/is-your-google-ads-agency-doing-a-good-job/index.html": {
       "sha256": "f9133979cba29df4606330821ce24c742f574ccbd78c2dd7769e12018aae31a4",
@@ -399,8 +399,8 @@
       "bytes": 12478
     },
     "insights/why-clicks-dont-feel-like-progress/index.html": {
-      "sha256": "588f9472a7ab62149f5f43ef546d4b1ea8c93020ca448bac8593ea5d7e3a574b",
-      "bytes": 12195
+      "sha256": "2f305f8e6469118dfae9ae509ce8c314c0c05e37e6a331cd75e812d20a37c086",
+      "bytes": 12178
     },
     "llms.txt": {
       "sha256": "89d199f0060294933f177079858f4e9cb99e347b1a740c39710290966c6adb92",
