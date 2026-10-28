@@ -1,6 +1,6 @@
 {
-  "source_sha": "e32906e514250e53086559947d0d87b738b1b4eb",
-  "file_count": 100,
+  "source_sha": "d6161c3d3247cf8aec5f75a5b481eb07a623a21c",
+  "file_count": 108,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -334,13 +334,45 @@
       "sha256": "dca4cdfdce0bf8848cb6e060f48366526db583b99eccc9314d1cf34e0d106b7d",
       "bytes": 28292
     },
+    "insights/google-ads-conversions-dropped/index.html": {
+      "sha256": "717b2461986649545c6b4090431a40564ecf5938074dd8603959450b070b84ff",
+      "bytes": 14147
+    },
+    "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-hero-1280.webp": {
+      "sha256": "e8ddfd07de7272d4d00d6456c075b0d999abf230a4f54db2546dd90df3a53789",
+      "bytes": 13150
+    },
+    "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-hero-1600.webp": {
+      "sha256": "495b3c81f9e2b32a97c3b79c7979be7bf17ca3ae178deeb8cc1bb4b3d541e027",
+      "bytes": 17478
+    },
+    "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-hero-1600x900.png": {
+      "sha256": "4348472816c63cb671b83bfecda580f29b02ccdbaf37efe191362bd5e607cb2a",
+      "bytes": 558711
+    },
+    "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-hero-640.webp": {
+      "sha256": "2e9bbfbca8b6959f3e082da347b83e3bb96c910e7ba95e03123680d396f62ed5",
+      "bytes": 6440
+    },
+    "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-hero-960.webp": {
+      "sha256": "390f5d9e5f1fed37d7cb96456a13e86fbdced130ceb52b37cf23eefca7192d1b",
+      "bytes": 9586
+    },
+    "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-social-1200x628.png": {
+      "sha256": "f39c72d71796660d9f8b5e5e072436475f73612fd78a3a5a3a949c3da8972413",
+      "bytes": 398081
+    },
+    "insights/how-much-does-google-ads-cost/index.html": {
+      "sha256": "0ad040982213f60700d54de0d8c41ac504e8638d443a6534a003c798998e26c3",
+      "bytes": 24268
+    },
     "insights/how-to-read-a-recommendation/index.html": {
       "sha256": "7eae4011e2cc1421f76192131f44408ca1e4ddbc153405f7bcdc7edd1918b3a2",
       "bytes": 15514
     },
     "insights/index.html": {
-      "sha256": "04ab5a31d4512df0b6f065226bf460426820a1703c0db1fedfff3784a884dd3f",
-      "bytes": 15402
+      "sha256": "1ca3ac3663f13ae3e8e3cec2fd1a4460cba05066ba9475ee36db8b53a5015687",
+      "bytes": 16361
     },
     "insights/is-your-google-ads-agency-doing-a-good-job/index.html": {
       "sha256": "f9133979cba29df4606330821ce24c742f574ccbd78c2dd7769e12018aae31a4",
@@ -391,8 +423,8 @@
       "bytes": 1047
     },
     "sitemap-pages.xml": {
-      "sha256": "bd8a6d3f09848796d6f605fd1192d4729009b413cd4203f5e8488cee5c7db2e7",
-      "bytes": 1730
+      "sha256": "829a65f37f4948bc84d7898e9605c690bb00e8455645f484e78a581bfbf29186",
+      "bytes": 1993
     },
     "sitemap.xml": {
       "sha256": "ef08ab92ca2a570b470e89f8ae7177a1bc5588498d87fb43fed82f5d2448b9a5",
