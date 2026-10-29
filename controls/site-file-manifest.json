@@ -1,6 +1,6 @@
 {
-  "source_sha": "da57fa98ef8d7382de04dc6009f3de939365f8a2",
-  "file_count": 116,
+  "source_sha": "7259a19075debae4bc6950ef157fd1e4031f421b",
+  "file_count": 118,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -11,8 +11,12 @@
       "bytes": 3844
     },
     "about/index.html": {
-      "sha256": "983136f377892c1379a6e51532d1ef10c89adfada3f7d999a351aa611392af39",
-      "bytes": 15210
+      "sha256": "550e7d779c17f4aa1a4e12e6a2a094d123cef4555555c8b27fbc8dc1d6848dcf",
+      "bytes": 15252
+    },
+    "assets/css/chronicles-index.css": {
+      "sha256": "760d5d99e54693221c971304aaf206b7c63cf9c8c4dddd649ba97bf0f4e54463",
+      "bytes": 6261
     },
     "assets/css/chronicles-notes.css": {
       "sha256": "a6440e9546c5471d667e03654e4faa7c30652e4203d3e78d308f651f6284f0bf",
@@ -70,6 +74,10 @@
       "sha256": "ee514babba2e3c9739e932f513dfbd9b3dce685e86137dbb6aedfaa9c8b1c183",
       "bytes": 33915
     },
+    "assets/js/chronicles-index.js": {
+      "sha256": "3ce39fce7fe559d1a845c3842f714bd38843642c6abfd0653a4cb0f29a8fe2b7",
+      "bytes": 2588
+    },
     "assets/js/site.js": {
       "sha256": "66ee0da34a838b34fb6d4a66f8443672d1349f644096269084b48f35b0f2e8ce",
       "bytes": 3822
@@ -111,8 +119,8 @@
       "bytes": 1011160
     },
     "chronicles/ai-overviews-local-search-what-changed/index.html": {
-      "sha256": "0a875902b758fb936c4a9584ef7eca3b4444a836e2d7dac9d9a89aa1e37a3393",
-      "bytes": 27344
+      "sha256": "af80cbdba582d3127781496fc4f1c9b7bb5a6f2abb68ea4590b2663c843a6529",
+      "bytes": 27369
     },
     "chronicles/assets/chronicles.js": {
       "sha256": "c408c8c425b710492b75ba20ee47b7d52ce54f4191fe7d055851ac706900701d",
@@ -159,8 +167,8 @@
       "bytes": 1179292
     },
     "chronicles/chatgpt-ads-small-business-what-changed/index.html": {
-      "sha256": "f3cf0527ee839aa26157e7fc3160ea18707c8be122596a007255d78b06617f88",
-      "bytes": 26211
+      "sha256": "463e364aafbba53cfa9c4a019bcad468cd1a06801d03ec767ae7ee7312e223f7",
+      "bytes": 26236
     },
     "chronicles/feed.xml": {
       "sha256": "99fe11a138b6c3ea9fca62e1d009c35bcda186add74899fa0166157dcdec1c61",
@@ -195,8 +203,8 @@
       "bytes": 1104002
     },
     "chronicles/google-ads-ai-max-migration-what-changed/index.html": {
-      "sha256": "635a0d99d7d6e07736203cfef44206caf74e85b611cd8e5c5cde7ef73fbf485f",
-      "bytes": 30110
+      "sha256": "3be6c36b7af3a066673b519d55e1c6a29b57713bf89b5d2eb12b4a8fbe72c743",
+      "bytes": 30135
     },
     "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-chart-budget-threshold-comparison-2400.webp": {
       "sha256": "249334832ef32a27fc7bdca15d68808433b5803a0678fff0e4c07f68d0e007b9",
@@ -235,12 +243,12 @@
       "bytes": 1052060
     },
     "chronicles/google-conversion-lift-small-business-eligibility/index.html": {
-      "sha256": "3b7674f9688d8de05f713a60a100d31e194749167b42943216e7fbb90ec41d05",
-      "bytes": 28060
+      "sha256": "b2d75beb6835d10b3424789aba701a8da3df804ee6e108994beead911560a11b",
+      "bytes": 28085
     },
     "chronicles/index.html": {
-      "sha256": "cd5edd896017d674996a689f05875026d62ea23ce29a6cbfc84106724d5f7e42",
-      "bytes": 25501
+      "sha256": "b4108940cbd8a941dee5b681a0c649637f3dacd3c2c6c80655bc4ea72fd37fbc",
+      "bytes": 24749
     },
     "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-hero-1600x900-1200.webp": {
       "sha256": "e5b489db2b7e388030a5013700c6a22c3dba34d50f9e8d7896e49fecd004205f",
@@ -271,8 +279,8 @@
       "bytes": 990812
     },
     "chronicles/local-services-ads-new-billing-rules-what-changed/index.html": {
-      "sha256": "5d9e34e5845d31f812331b02ccc97eb222ddfb692a5037f5c2af2ffdda8dbfe4",
-      "bytes": 27444
+      "sha256": "1fc51def19200bcf74d52300611a75e11d9eb0a77057299bb921ce5820359212",
+      "bytes": 27469
     },
     "chronicles/meta-product-browsing-opt-out/assets/meta-product-browsing-opt-out-hero-1600x900-1200.webp": {
       "sha256": "dc7bcc09de9571b839c50954362556a6c2e1f76c944615b64b25b7c96adfed7f",
@@ -303,12 +311,12 @@
       "bytes": 919380
     },
     "chronicles/meta-product-browsing-opt-out/index.html": {
-      "sha256": "9f9a721c40204cd11f07e8a6573586e4ba11f5824d5b93d62aad12fdf1001dfa",
-      "bytes": 30909
+      "sha256": "c91dfc3aab6a22c019f9ad4033efbc13ad90320ef1881781f9f26582bc884f8e",
+      "bytes": 30934
     },
     "chronicles/search/index.html": {
-      "sha256": "5475620030174065e2b373faea4c4822290da94abebaab62e41c568bfaad2283",
-      "bytes": 5976
+      "sha256": "5ab97e464d39ec5b12aa244f2d65284c8472cd2d8c8779d99c4a4a492ceb0d54",
+      "bytes": 6001
     },
     "chronicles/why-we-are-building-lonko/assets/why-we-are-building-lonko-hero-1600x900-1200.webp": {
       "sha256": "fa8e31f9c0036604674ad705f229a78749353905eadd55ec064d6531f9724ca2",
@@ -339,36 +347,36 @@
       "bytes": 718911
     },
     "chronicles/why-we-are-building-lonko/index.html": {
-      "sha256": "e62f627815644e0f8a855617063d0243506535b51e884de7cdae978a4d98a3ec",
-      "bytes": 22589
+      "sha256": "31dfde12604faffef7b0a009f4b8bb509a9a8c1da47b46b6b03ed3cfdc3f0f6c",
+      "bytes": 22614
     },
     "CNAME": {
       "sha256": "8aab0ab92a0b8cd88a0fb3ed2be99b52f6beea2c3745c7d03b971ff560ad5a9f",
       "bytes": 17
     },
     "contact/index.html": {
-      "sha256": "6f97808c8ec979713e4d1e2a3f02fe86143b5c3949ca8fea9c5585ca771094f8",
-      "bytes": 17314
+      "sha256": "15e34972afec4b85a222b18642fb6c7c7a2c5efb18d61e84b19f4ecfb1891b21",
+      "bytes": 17339
     },
     "index.html": {
-      "sha256": "52e9e3e0302228c8040047bbf06645472d0da7596587f37c11d19e355d405235",
-      "bytes": 31546
+      "sha256": "e0f212497ec0457057530b6ed5d97188ac87ce055abe575c5f3ce39abbeb8fa8",
+      "bytes": 31588
     },
     "insights/before-you-increase-your-budget/index.html": {
-      "sha256": "b6665efd2c0f74f245c6dbba6c0a4cfedb2cf2af1a889210698f651ed7f3c3f5",
-      "bytes": 12482
+      "sha256": "a03af5cce2add8518b95d08d2abf08c43a95bf662a749927c54db3c8bf3fc2cb",
+      "bytes": 12507
     },
     "insights/clicks-but-no-leads/index.html": {
-      "sha256": "e9ad232d559d5860457b6d7e13b18b0450d65c36b70feb53b16a2f59b7ab9537",
-      "bytes": 22299
+      "sha256": "b78835f606cf7e62467af89ef3a8b8e3b5e4ed31bbe92053f1b3a5c4edf7e527",
+      "bytes": 22324
     },
     "insights/facebook-instagram-ads-cost/index.html": {
-      "sha256": "931ff56ef24a2b58e2af81725d95f37a866a3c080c9e994c9679e1cf3d37d4ab",
-      "bytes": 28292
+      "sha256": "55f7b0a7c7172e103ab4b8fed7c384a074ca2ef0dd051bcefc50669b59d3ae2e",
+      "bytes": 28317
     },
     "insights/google-ads-conversions-dropped/index.html": {
-      "sha256": "bfee04667c11bfefc6dcdd6c0cfc1b4fda86677e0b80223436a10b7d419b4939",
-      "bytes": 14121
+      "sha256": "a76c96836bcd8d8d33dab5735503312cc7f13156a4e3be9321d006c8057aa61b",
+      "bytes": 14146
     },
     "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-hero-1280.webp": {
       "sha256": "e8ddfd07de7272d4d00d6456c075b0d999abf230a4f54db2546dd90df3a53789",
@@ -395,56 +403,56 @@
       "bytes": 398081
     },
     "insights/how-much-does-google-ads-cost/index.html": {
-      "sha256": "a32eed3cb2ef3fd7a89a3934cbcb4dbcd89bf8660b2507526fe525d1a468dccf",
-      "bytes": 24268
+      "sha256": "85b9b726b1dd43c634437c3cc6b106245ad5ac485164e7a9f56ad34b08ea8983",
+      "bytes": 24293
     },
     "insights/how-to-read-a-recommendation/index.html": {
-      "sha256": "7eae4011e2cc1421f76192131f44408ca1e4ddbc153405f7bcdc7edd1918b3a2",
-      "bytes": 15514
+      "sha256": "35c0fa690d4b7c809283675e48eb3022dd81489851856bbaf8ebda9d69fbc47b",
+      "bytes": 15539
     },
     "insights/index.html": {
-      "sha256": "869370e3721b6dbcd8cebd300df187f5d251e52864500d4573ceaeae6aee7f64",
-      "bytes": 16390
+      "sha256": "81b53cfb183ad5b223cb5f950baf2f9d9d7420133476273d3276ba0d570ffded",
+      "bytes": 16415
     },
     "insights/is-your-google-ads-agency-doing-a-good-job/index.html": {
-      "sha256": "44a15b3293703d9ee5b3716b730b68c8df8eb58ae7795e3e31e0d25d12570fba",
-      "bytes": 20812
+      "sha256": "70644f90cc014cfe608459a2df34134518802ec519dfe290f60f5d5e86d1667d",
+      "bytes": 20837
     },
     "insights/marketing-data-second-job/index.html": {
-      "sha256": "b89de3741033663b6a9c0c08bed4822044c3374457bfecade0bfa69d049ca095",
-      "bytes": 12495
+      "sha256": "f10ed1080243a9be46ebaa112ef62804dab97e51c76ffd3c35a7aff1de65ab1b",
+      "bytes": 12520
     },
     "insights/one-good-week-isnt-a-trend/index.html": {
-      "sha256": "cd31776335b7247f826eb4ac8694f92507a7ccdb65e899ef696693e997279013",
-      "bytes": 12908
+      "sha256": "1f948c45723ac8b57147ed3bfd1ec2e27c03ceb9158605b730d87bd8a43c63bc",
+      "bytes": 12933
     },
     "insights/real-cost-of-not-tracking-conversions/index.html": {
-      "sha256": "8d0c4ef90747afe9c605a2084948eb9c04d5a3a6b57a5c0864381e7ad32928dd",
-      "bytes": 13899
+      "sha256": "b0311c96a2d2785b0f8d31a5680c33172a4b9f1e253c888875228e25ee6015f9",
+      "bytes": 13924
     },
     "insights/what-to-look-at-first/index.html": {
-      "sha256": "9f972ab018368938dba9024ea8990e82b1375c0934617b8b97a8dff5e6734309",
-      "bytes": 13387
+      "sha256": "a6c92121de0f75b62f340c63e78a70d8fcf21b06131d174b66fdec8f5fe5112e",
+      "bytes": 13412
     },
     "insights/what-working-actually-means/index.html": {
-      "sha256": "c692044804229bb48f0684b1c79a153f36190622f050e7dcd9cbb04959db3b47",
-      "bytes": 12461
+      "sha256": "a0c4782982e358a830374f676565202bdf4c9b714d14d0e1c363de2936f61228",
+      "bytes": 12486
     },
     "insights/why-clicks-dont-feel-like-progress/index.html": {
-      "sha256": "6c5623dc7201c43445fb4808e1354dc5df38632f14b28f0a27980f21db38b88f",
-      "bytes": 12198
+      "sha256": "e72cd924b370efd19c5039f81ea6f6b81bb8428660a1b62195bb97a7dbf99acf",
+      "bytes": 12223
     },
     "llms.txt": {
       "sha256": "89d199f0060294933f177079858f4e9cb99e347b1a740c39710290966c6adb92",
       "bytes": 1233
     },
     "notes/confirmed/index.html": {
-      "sha256": "ff2cc0af449dac812541bdab5ed83edeaa06dbf7cd3e069ce78719ea8d3267b2",
-      "bytes": 19242
+      "sha256": "180cdf5e69615b044a4811c3b0eb234dfb1fde401acaaee1967a8b0d64e57441",
+      "bytes": 19267
     },
     "privacy/index.html": {
-      "sha256": "ed54cf21ef0e2c3e550e00a7da268a82d30f69bf6106886844fd1762c01de901",
-      "bytes": 17372
+      "sha256": "ab0fe6deeee02ec407032869c3f08754441451818bde53e3ae6a462e19a6d1c8",
+      "bytes": 17397
     },
     "robots.txt": {
       "sha256": "bdb712a27f84234f644e4a223fcd25efc75e52bdcd74bfbdc6076f11833d714a",
@@ -463,8 +471,8 @@
       "bytes": 293
     },
     "terms/index.html": {
-      "sha256": "9fcee732a3b52f5ca9bd883ed3ab9befab80e6237d8394a4133995ab051e3d77",
-      "bytes": 11375
+      "sha256": "2bed8ebda868c41e7f8c7df3235ccc237cfa8aad1c6fec4bf477c11a99833dea",
+      "bytes": 11400
     }
   }
 }
