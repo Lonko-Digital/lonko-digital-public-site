@@ -1,6 +1,6 @@
 {
-  "source_sha": "31a3ace608bb079e9a2f81d303f29f779df83554",
-  "file_count": 108,
+  "source_sha": "2572df18d4c2823fa0b7b275fd49aec67bf3206d",
+  "file_count": 116,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -119,16 +119,16 @@
       "bytes": 12568
     },
     "chronicles/assets/search-index-a.json": {
-      "sha256": "d8ae04e13e015cd61e0ddf2d3bdb8c5f16fd2fd6ad47acb2b023a4d120dca189",
-      "bytes": 3085
+      "sha256": "68773f7685451f097cd3a18ce6b7bcca2079bbf768d0c2a9f45b71206aafddc2",
+      "bytes": 3444
     },
     "chronicles/assets/search-index-b.json": {
-      "sha256": "3356cc64db26e2677f3503008aaf04a7e2bb649982e95ce519e16347966436f6",
-      "bytes": 53979
+      "sha256": "50b70651e09bee84033dcfea82f8d2ec266d75c08204bb9fc051c907dc6b328f",
+      "bytes": 58841
     },
     "chronicles/assets/search-index.json": {
-      "sha256": "3356cc64db26e2677f3503008aaf04a7e2bb649982e95ce519e16347966436f6",
-      "bytes": 53979
+      "sha256": "50b70651e09bee84033dcfea82f8d2ec266d75c08204bb9fc051c907dc6b328f",
+      "bytes": 58841
     },
     "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-hero-1600x900-1200.webp": {
       "sha256": "9d18f43aa95a676ba029e7909720618841a178c9dd5842ee5830d75c427a9843",
@@ -163,8 +163,8 @@
       "bytes": 26211
     },
     "chronicles/feed.xml": {
-      "sha256": "f311550b86572fde1da16644f926133edc1b4ce77bde385e7fa432f67c5189c1",
-      "bytes": 3087
+      "sha256": "6c3b17a63e17f4a2c85cec50a6f1d3a2a6cb867d59babc8b51c865624ab87856",
+      "bytes": 3459
     },
     "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-hero-1600x900-1200.webp": {
       "sha256": "56f4bb5275e329ba46fa219d082acb915d07e743d2ed6ac8c5abe57289f67585",
@@ -239,8 +239,8 @@
       "bytes": 28110
     },
     "chronicles/index.html": {
-      "sha256": "58db52bacfb748f48f0c53ce5b7e140fc8513ea14f8ada0127ed4adac1da0dae",
-      "bytes": 24021
+      "sha256": "5b793a3f9f3da7882e212c2126007257551b3cacab96dc7c206d1b732e6799b5",
+      "bytes": 25477
     },
     "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-hero-1600x900-1200.webp": {
       "sha256": "e5b489db2b7e388030a5013700c6a22c3dba34d50f9e8d7896e49fecd004205f",
@@ -309,6 +309,38 @@
     "chronicles/search/index.html": {
       "sha256": "5475620030174065e2b373faea4c4822290da94abebaab62e41c568bfaad2283",
       "bytes": 5976
+    },
+    "chronicles/why-we-are-building-lonko/assets/why-we-are-building-lonko-hero-1600x900-1200.webp": {
+      "sha256": "fa8e31f9c0036604674ad705f229a78749353905eadd55ec064d6531f9724ca2",
+      "bytes": 47160
+    },
+    "chronicles/why-we-are-building-lonko/assets/why-we-are-building-lonko-hero-1600x900-1600.webp": {
+      "sha256": "7f4a2a4491b24a4dd7a083fca2eafa3cb0681324299aee7617fd2154bc949c45",
+      "bytes": 73540
+    },
+    "chronicles/why-we-are-building-lonko/assets/why-we-are-building-lonko-hero-1600x900-480.webp": {
+      "sha256": "673a65067aca77863c5ce536c4b261e4e345aca095cb510a04a7db73228eb2e4",
+      "bytes": 9774
+    },
+    "chronicles/why-we-are-building-lonko/assets/why-we-are-building-lonko-hero-1600x900-800.webp": {
+      "sha256": "4b4a69f6db45644b0d82eff5ad956792585d914ef83c9437f43a00521dba4ce6",
+      "bytes": 23360
+    },
+    "chronicles/why-we-are-building-lonko/assets/why-we-are-building-lonko-hero-1600x900.png": {
+      "sha256": "48c9081ae26074aefe5599feb57bc3c02cfeeeae629941f55da3f0879387f174",
+      "bytes": 1572483
+    },
+    "chronicles/why-we-are-building-lonko/assets/why-we-are-building-lonko-social-1200x628-1200.webp": {
+      "sha256": "999965616f31b8a1b90992cc790d56b83ee5544ff6a715ff48afc8607e0ad77f",
+      "bytes": 534432
+    },
+    "chronicles/why-we-are-building-lonko/assets/why-we-are-building-lonko-social-1200x628.png": {
+      "sha256": "486461ae384dad4cfa47565f252ee6ff7474d088c7d33aa9fe0be4b19bbfd5df",
+      "bytes": 718911
+    },
+    "chronicles/why-we-are-building-lonko/index.html": {
+      "sha256": "d35ef273a821d145dd259964a22507ec9297a85b834bdcc696d24cd7ca7cae90",
+      "bytes": 22428
     },
     "CNAME": {
       "sha256": "8aab0ab92a0b8cd88a0fb3ed2be99b52f6beea2c3745c7d03b971ff560ad5a9f",
@@ -419,8 +451,8 @@
       "bytes": 130
     },
     "sitemap-chronicles.xml": {
-      "sha256": "82c33c0a84ab8082cd40cb7c22e15bd7fd4d248fe2313adbe91999f0a78d3033",
-      "bytes": 1047
+      "sha256": "6bd3ee61e905e6531f7ae85056a58b61d8870e2e50b6064b1709d0637c43fef5",
+      "bytes": 1176
     },
     "sitemap-pages.xml": {
       "sha256": "b4a2c6c4d526c1f98e6ab15cc625e979653213b2915916fee413e13bdfd7793b",
