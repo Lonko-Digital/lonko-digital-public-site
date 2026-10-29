@@ -1,5 +1,5 @@
 {
-  "source_sha": "99fadd16e04c65a3157539f9b36035a3f2ae7acc",
+  "source_sha": "31a3ace608bb079e9a2f81d303f29f779df83554",
   "file_count": 108,
   "files": {
     ".nojekyll": {
@@ -371,8 +371,8 @@
       "bytes": 15514
     },
     "insights/index.html": {
-      "sha256": "b5e32b851ab10dc2e90ded0673e479d8f11fd32442ac3905d2b0975803b75f46",
-      "bytes": 16353
+      "sha256": "869370e3721b6dbcd8cebd300df187f5d251e52864500d4573ceaeae6aee7f64",
+      "bytes": 16390
     },
     "insights/is-your-google-ads-agency-doing-a-good-job/index.html": {
       "sha256": "f9133979cba29df4606330821ce24c742f574ccbd78c2dd7769e12018aae31a4",
