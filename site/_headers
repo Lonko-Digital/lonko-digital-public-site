@@ -1,0 +1,14 @@
+# Lonko Digital: generated from the allowlisted HTML at build time.
+# Report-only CSP. No reporting endpoint or new vendor is configured.
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Strict-Transport-Security: max-age=300
+  Content-Security-Policy-Report-Only: default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; script-src 'self' 'sha256-0vWxg1/OXDozXU45Exl8u8Wlc+Pn9c+LKsrhmnnNhi0=' 'sha256-CHoQuvxnWspOndm+VQ2MVtoIi6Fuke9gxzc0zRi9ixU=' 'sha256-eKbuyYubuH7G5dd7zOIZqDi8NOhSeAJ7P5CftDnw95I=' 'sha256-lSgHwSpSINwNbIp3flFiFwGNVk+Istcf3+90fKrhCrw=' 'sha256-qu6gqX5NeaKt5KRjicNwpPPAcFVGqqAs3rJn2OzpfbM=' 'sha256-rnSilqx70ysJSINaYijSOVvGOzG2uzSgg0sneaLAnns=' https://www.googletagmanager.com https://sibforms.com; script-src-attr 'none'; style-src 'self' 'unsafe-inline' https://sibforms.com; img-src 'self' data: https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com https://analytics.google.com https://region1.analytics.google.com; font-src 'self' data: https://sibforms.com; connect-src 'self' https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com https://analytics.google.com https://region1.analytics.google.com https://sibforms.com https://b6b78b33.sibforms.com; frame-src https://www.googletagmanager.com; form-action 'self' https://b6b78b33.sibforms.com
+
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex

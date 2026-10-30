@@ -1,6 +1,6 @@
 {
-  "source_sha": "7259a19075debae4bc6950ef157fd1e4031f421b",
-  "file_count": 118,
+  "source_sha": "c16491d6719068ab165a5c747e4f0f81bfc63baa",
+  "file_count": 119,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -9,6 +9,14 @@
     "404.html": {
       "sha256": "a2f8ed65b9522765a7b8551bd3691cbf8b04b177354e3a0066bb6694e83ca074",
       "bytes": 3844
+    },
+    "CNAME": {
+      "sha256": "8aab0ab92a0b8cd88a0fb3ed2be99b52f6beea2c3745c7d03b971ff560ad5a9f",
+      "bytes": 17
+    },
+    "_headers": {
+      "sha256": "f0055ac73da9b4f331b80bf80409f40f7c0143e57d57139819c87663484620df",
+      "bytes": 1571
     },
     "about/index.html": {
       "sha256": "550e7d779c17f4aa1a4e12e6a2a094d123cef4555555c8b27fbc8dc1d6848dcf",
@@ -349,10 +357,6 @@
     "chronicles/why-we-are-building-lonko/index.html": {
       "sha256": "31dfde12604faffef7b0a009f4b8bb509a9a8c1da47b46b6b03ed3cfdc3f0f6c",
       "bytes": 22614
-    },
-    "CNAME": {
-      "sha256": "8aab0ab92a0b8cd88a0fb3ed2be99b52f6beea2c3745c7d03b971ff560ad5a9f",
-      "bytes": 17
     },
     "contact/index.html": {
       "sha256": "15e34972afec4b85a222b18642fb6c7c7a2c5efb18d61e84b19f4ecfb1891b21",
