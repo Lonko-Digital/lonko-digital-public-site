@@ -1,5 +1,5 @@
 {
-  "source_sha": "2b2c3ddeb9ecce29b2d94a323282e673717c2444",
+  "source_sha": "d2ae551b6e5aa2e7ff60ac364bb1a3cd3ea341c5",
   "file_count": 120,
   "files": {
     ".nojekyll": {
@@ -19,8 +19,8 @@
       "bytes": 1571
     },
     "about/index.html": {
-      "sha256": "550e7d779c17f4aa1a4e12e6a2a094d123cef4555555c8b27fbc8dc1d6848dcf",
-      "bytes": 15252
+      "sha256": "1573667ceec1c73bfe183961901b5bd8897c1bc047a2a4fc8e3bee3c3eabd357",
+      "bytes": 15267
     },
     "assets/css/chronicles-index.css": {
       "sha256": "760d5d99e54693221c971304aaf206b7c63cf9c8c4dddd649ba97bf0f4e54463",
@@ -139,12 +139,12 @@
       "bytes": 3452
     },
     "chronicles/assets/search-index-b.json": {
-      "sha256": "0aa5f79f982d5597f479bd5965cc6e1b6aa113e9b008850d27a2ce73ade3e6e0",
-      "bytes": 58969
+      "sha256": "c434c906d84d88557ddfa775021c2fdbf414d66e803535eb7e473410af124d70",
+      "bytes": 58979
     },
     "chronicles/assets/search-index.json": {
-      "sha256": "0aa5f79f982d5597f479bd5965cc6e1b6aa113e9b008850d27a2ce73ade3e6e0",
-      "bytes": 58969
+      "sha256": "c434c906d84d88557ddfa775021c2fdbf414d66e803535eb7e473410af124d70",
+      "bytes": 58979
     },
     "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-hero-1600x900-1200.webp": {
       "sha256": "9d18f43aa95a676ba029e7909720618841a178c9dd5842ee5830d75c427a9843",
@@ -319,8 +319,8 @@
       "bytes": 919380
     },
     "chronicles/meta-product-browsing-opt-out/index.html": {
-      "sha256": "c91dfc3aab6a22c019f9ad4033efbc13ad90320ef1881781f9f26582bc884f8e",
-      "bytes": 30934
+      "sha256": "e6ed806e05871a1d6cdb5560fd1b159bf8f6152890be1cd02bffe9ba55387aa9",
+      "bytes": 30939
     },
     "chronicles/search/index.html": {
       "sha256": "5ab97e464d39ec5b12aa244f2d65284c8472cd2d8c8779d99c4a4a492ceb0d54",
@@ -355,16 +355,16 @@
       "bytes": 718911
     },
     "chronicles/why-we-are-building-lonko/index.html": {
-      "sha256": "31dfde12604faffef7b0a009f4b8bb509a9a8c1da47b46b6b03ed3cfdc3f0f6c",
-      "bytes": 22614
+      "sha256": "ef1a0ceab04cea36f8b8f8aa5c543574bbe799b2630f29b7f940c5b3fa578e45",
+      "bytes": 22619
     },
     "contact/index.html": {
       "sha256": "15e34972afec4b85a222b18642fb6c7c7a2c5efb18d61e84b19f4ecfb1891b21",
       "bytes": 17339
     },
     "index.html": {
-      "sha256": "e0f212497ec0457057530b6ed5d97188ac87ce055abe575c5f3ce39abbeb8fa8",
-      "bytes": 31588
+      "sha256": "785b584b634df8a1e51aeb90aab291ace2c3445ab15195cb50b1e2cf3bf48f1e",
+      "bytes": 31598
     },
     "insights/aeo-vs-geo-vs-seo/index.html": {
       "sha256": "16975c36ad036d3b8443b38e78cefa0858f5267009ad3e3507ae67b618a12bf7",
