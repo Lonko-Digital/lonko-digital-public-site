@@ -1,5 +1,5 @@
 {
-  "source_sha": "c16491d6719068ab165a5c747e4f0f81bfc63baa",
+  "source_sha": "af5ad2e07374c4361029864564d921513e590313",
   "file_count": 119,
   "files": {
     ".nojekyll": {
@@ -375,12 +375,12 @@
       "bytes": 22324
     },
     "insights/facebook-instagram-ads-cost/index.html": {
-      "sha256": "55f7b0a7c7172e103ab4b8fed7c384a074ca2ef0dd051bcefc50669b59d3ae2e",
-      "bytes": 28317
+      "sha256": "e96969ff8e722ab8b07ca19f08fdb7383277275571a0e4a5b8d68134f261d9dc",
+      "bytes": 28337
     },
     "insights/google-ads-conversions-dropped/index.html": {
-      "sha256": "a76c96836bcd8d8d33dab5735503312cc7f13156a4e3be9321d006c8057aa61b",
-      "bytes": 14146
+      "sha256": "0b739bb76ec35e8c2457758708022abfce2d4efff9950137c8843fffc603f356",
+      "bytes": 14166
     },
     "insights/how-much-does-google-ads-cost/assets/how-much-does-google-ads-cost-hero-1280.webp": {
       "sha256": "e8ddfd07de7272d4d00d6456c075b0d999abf230a4f54db2546dd90df3a53789",
@@ -407,8 +407,8 @@
       "bytes": 398081
     },
     "insights/how-much-does-google-ads-cost/index.html": {
-      "sha256": "85b9b726b1dd43c634437c3cc6b106245ad5ac485164e7a9f56ad34b08ea8983",
-      "bytes": 24293
+      "sha256": "8263b50d98ea5f49def40caaecb7317f00875b591f185f8dbf607ecb5aaab803",
+      "bytes": 24313
     },
     "insights/how-to-read-a-recommendation/index.html": {
       "sha256": "35c0fa690d4b7c809283675e48eb3022dd81489851856bbaf8ebda9d69fbc47b",
