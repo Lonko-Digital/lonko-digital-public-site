@@ -1,6 +1,6 @@
 {
-  "source_sha": "af5ad2e07374c4361029864564d921513e590313",
-  "file_count": 119,
+  "source_sha": "2ed6bd404b39cd398ebeb26401c8aea508d95a30",
+  "file_count": 120,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -366,6 +366,10 @@
       "sha256": "e0f212497ec0457057530b6ed5d97188ac87ce055abe575c5f3ce39abbeb8fa8",
       "bytes": 31588
     },
+    "insights/aeo-vs-geo-vs-seo/index.html": {
+      "sha256": "16975c36ad036d3b8443b38e78cefa0858f5267009ad3e3507ae67b618a12bf7",
+      "bytes": 24268
+    },
     "insights/before-you-increase-your-budget/index.html": {
       "sha256": "a03af5cce2add8518b95d08d2abf08c43a95bf662a749927c54db3c8bf3fc2cb",
       "bytes": 12507
@@ -415,8 +419,8 @@
       "bytes": 15539
     },
     "insights/index.html": {
-      "sha256": "81b53cfb183ad5b223cb5f950baf2f9d9d7420133476273d3276ba0d570ffded",
-      "bytes": 16415
+      "sha256": "467c31c2f14e7a570b7c9f2931feedda5842ff269136cd206d54b83d333c297f",
+      "bytes": 16850
     },
     "insights/is-your-google-ads-agency-doing-a-good-job/index.html": {
       "sha256": "70644f90cc014cfe608459a2df34134518802ec519dfe290f60f5d5e86d1667d",
@@ -467,8 +471,8 @@
       "bytes": 1176
     },
     "sitemap-pages.xml": {
-      "sha256": "b4a2c6c4d526c1f98e6ab15cc625e979653213b2915916fee413e13bdfd7793b",
-      "bytes": 2027
+      "sha256": "334648b77ee0570e2f0ef97fb4b6b5c67a0e0aa27a6243466d3fa7b800b9640a",
+      "bytes": 2146
     },
     "sitemap.xml": {
       "sha256": "ef08ab92ca2a570b470e89f8ae7177a1bc5588498d87fb43fed82f5d2448b9a5",
