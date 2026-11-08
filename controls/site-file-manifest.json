@@ -1,6 +1,6 @@
 {
-  "source_sha": "d2ae551b6e5aa2e7ff60ac364bb1a3cd3ea341c5",
-  "file_count": 120,
+  "source_sha": "e89e272194805bcc1b39a93baf0866b3c9cb972e",
+  "file_count": 123,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -135,16 +135,16 @@
       "bytes": 12568
     },
     "chronicles/assets/search-index-a.json": {
-      "sha256": "b1489908bc3beb1bb6a218d53fcd2e713d42ad3f8f80f9b3f6e9e30f4363c831",
-      "bytes": 3452
+      "sha256": "2ecafb4c930d4e3097bf0d167905bd8504636232591a68ae4d44102c1c11f6f9",
+      "bytes": 3818
     },
     "chronicles/assets/search-index-b.json": {
-      "sha256": "c434c906d84d88557ddfa775021c2fdbf414d66e803535eb7e473410af124d70",
-      "bytes": 58979
+      "sha256": "cdf2b3e4231fc922fdf0c8e6c1e460c9356476188ffe55c90d3249a25c99cbaf",
+      "bytes": 71684
     },
     "chronicles/assets/search-index.json": {
-      "sha256": "c434c906d84d88557ddfa775021c2fdbf414d66e803535eb7e473410af124d70",
-      "bytes": 58979
+      "sha256": "cdf2b3e4231fc922fdf0c8e6c1e460c9356476188ffe55c90d3249a25c99cbaf",
+      "bytes": 71684
     },
     "chronicles/chatgpt-ads-small-business-what-changed/assets/chatgpt-ads-small-business-what-changed-hero-1600x900-1200.webp": {
       "sha256": "9d18f43aa95a676ba029e7909720618841a178c9dd5842ee5830d75c427a9843",
@@ -179,8 +179,8 @@
       "bytes": 26236
     },
     "chronicles/feed.xml": {
-      "sha256": "99fe11a138b6c3ea9fca62e1d009c35bcda186add74899fa0166157dcdec1c61",
-      "bytes": 3467
+      "sha256": "55aebe94a42c6a820232ed3b9d2f28fd0bd1460677179980bd359b2e8287adb9",
+      "bytes": 3842
     },
     "chronicles/google-ads-ai-max-migration-what-changed/assets/google-ads-ai-max-migration-what-changed-hero-1600x900-1200.webp": {
       "sha256": "56f4bb5275e329ba46fa219d082acb915d07e743d2ed6ac8c5abe57289f67585",
@@ -213,6 +213,18 @@
     "chronicles/google-ads-ai-max-migration-what-changed/index.html": {
       "sha256": "3be6c36b7af3a066673b519d55e1c6a29b57713bf89b5d2eb12b4a8fbe72c743",
       "bytes": 30135
+    },
+    "chronicles/google-ads-ai-mode-what-changed/assets/google-ads-ai-mode-what-changed-hero-1600x900.webp": {
+      "sha256": "2927d1d5928e405eb825b2707eebd2b3d9cd71c10786dd2082333e6fba7e11d5",
+      "bytes": 84194
+    },
+    "chronicles/google-ads-ai-mode-what-changed/assets/google-ads-ai-mode-what-changed-social-1200x628.webp": {
+      "sha256": "7e623f23a12c521678a60af3f5928418e2c889ca6be64685d8cc769ce6b857d0",
+      "bytes": 46742
+    },
+    "chronicles/google-ads-ai-mode-what-changed/index.html": {
+      "sha256": "4bbc3dfad73dc9c90e46e714fead7db1d4d6d94cffb2e8ad03a3b96130c109c0",
+      "bytes": 33105
     },
     "chronicles/google-conversion-lift-small-business-eligibility/assets/google-conversion-lift-small-business-eligibility-chart-budget-threshold-comparison-2400.webp": {
       "sha256": "249334832ef32a27fc7bdca15d68808433b5803a0678fff0e4c07f68d0e007b9",
@@ -251,12 +263,12 @@
       "bytes": 1052060
     },
     "chronicles/google-conversion-lift-small-business-eligibility/index.html": {
-      "sha256": "b2d75beb6835d10b3424789aba701a8da3df804ee6e108994beead911560a11b",
-      "bytes": 28085
+      "sha256": "c9e0df3afc45a6cc1e6015ea83ed376dbf25b03d5732377814afa11fb5f6134a",
+      "bytes": 28133
     },
     "chronicles/index.html": {
-      "sha256": "b4108940cbd8a941dee5b681a0c649637f3dacd3c2c6c80655bc4ea72fd37fbc",
-      "bytes": 24749
+      "sha256": "a5d364ba0b303542a72577d53c95ddfceae8766891c6868a5cc5dc9d2bb7f745",
+      "bytes": 25662
     },
     "chronicles/local-services-ads-new-billing-rules-what-changed/assets/local-services-ads-new-billing-rules-what-changed-hero-1600x900-1200.webp": {
       "sha256": "e5b489db2b7e388030a5013700c6a22c3dba34d50f9e8d7896e49fecd004205f",
@@ -467,8 +479,8 @@
       "bytes": 130
     },
     "sitemap-chronicles.xml": {
-      "sha256": "6bd3ee61e905e6531f7ae85056a58b61d8870e2e50b6064b1709d0637c43fef5",
-      "bytes": 1176
+      "sha256": "0c9cbbcccf08d5b18703ed1fe6d967c5e6624576c3f5d38d1a7d8f8addbfd6a2",
+      "bytes": 1311
     },
     "sitemap-pages.xml": {
       "sha256": "334648b77ee0570e2f0ef97fb4b6b5c67a0e0aa27a6243466d3fa7b800b9640a",
