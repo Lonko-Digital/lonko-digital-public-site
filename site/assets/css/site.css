@@ -3180,6 +3180,12 @@ body:has(.chronicles-article-page) .site-header {
   contain-intrinsic-size: auto 4.5rem;
 }
 
+/* Keep the approved Chronicle 7 body available without viewport-dependent rendering. */
+.chronicles-article-page[data-article-slug="google-ads-ai-mode-what-changed"] .chronicles-article-body > * {
+  content-visibility: visible;
+  contain-intrinsic-size: none;
+}
+
 .chronicles-sources,
 .chronicles-related {
   content-visibility: auto;
