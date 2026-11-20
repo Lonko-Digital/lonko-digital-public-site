@@ -1,6 +1,6 @@
 {
-  "source_sha": "51c16253d4286134b45e5bae1bb79cdc0dae3d47",
-  "file_count": 123,
+  "source_sha": "dfaa89a345e612d4624305ed2a14241ba4a875dd",
+  "file_count": 129,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -390,6 +390,30 @@
       "sha256": "b78835f606cf7e62467af89ef3a8b8e3b5e4ed31bbe92053f1b3a5c4edf7e527",
       "bytes": 22324
     },
+    "insights/customer-acquisition-cost/assets/customer-acquisition-cost-banner-1200.webp": {
+      "sha256": "5f3d484868bd3aba0f232979d9e85de0b3df9ee5e12842f22aa4c2a245ef3a11",
+      "bytes": 43504
+    },
+    "insights/customer-acquisition-cost/assets/customer-acquisition-cost-banner-1200x630.png": {
+      "sha256": "d403305e84076f9388b0e59c718aed48704754572cdb6399493bd8777c66d877",
+      "bytes": 960307
+    },
+    "insights/customer-acquisition-cost/assets/customer-acquisition-cost-banner-480.webp": {
+      "sha256": "94f1d7017da1e674ce07d2a2e3726af17e0fed7e8f01237f4e6853283b2d4c6b",
+      "bytes": 13038
+    },
+    "insights/customer-acquisition-cost/assets/customer-acquisition-cost-banner-768.webp": {
+      "sha256": "eaaeb084084599a2b87dbd429b7efe8d61d57a0cfc69bb248329ec6bf6e4c4a3",
+      "bytes": 22528
+    },
+    "insights/customer-acquisition-cost/assets/customer-acquisition-cost-banner-960.webp": {
+      "sha256": "0137e3359e5c205406a23738d8798605312297ee601a153bdb07facb0a30f332",
+      "bytes": 30592
+    },
+    "insights/customer-acquisition-cost/index.html": {
+      "sha256": "8be3db67cbd6eea10046f474b9a5170e69e3e0ef13ab8d7df0f05498b4490ad7",
+      "bytes": 24419
+    },
     "insights/facebook-instagram-ads-cost/index.html": {
       "sha256": "935e64015e85d2527211878d2838333925a443f15adf61e7c426c829cb926814",
       "bytes": 28342
@@ -431,8 +455,8 @@
       "bytes": 15539
     },
     "insights/index.html": {
-      "sha256": "467c31c2f14e7a570b7c9f2931feedda5842ff269136cd206d54b83d333c297f",
-      "bytes": 16850
+      "sha256": "325170a2f49da523f995e8cebb59ddfecbea3b8e5f048f0bc7e86479a1d8ec91",
+      "bytes": 17270
     },
     "insights/is-your-google-ads-agency-doing-a-good-job/index.html": {
       "sha256": "70644f90cc014cfe608459a2df34134518802ec519dfe290f60f5d5e86d1667d",
@@ -483,8 +507,8 @@
       "bytes": 1311
     },
     "sitemap-pages.xml": {
-      "sha256": "334648b77ee0570e2f0ef97fb4b6b5c67a0e0aa27a6243466d3fa7b800b9640a",
-      "bytes": 2146
+      "sha256": "461982bb0df5a9a02c012ba96076736087867157c21e5ed6c5b56e135fec8fbe",
+      "bytes": 2273
     },
     "sitemap.xml": {
       "sha256": "ef08ab92ca2a570b470e89f8ae7177a1bc5588498d87fb43fed82f5d2448b9a5",

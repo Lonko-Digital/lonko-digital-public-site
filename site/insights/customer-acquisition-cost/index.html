@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="../../assets/images/favicon.ico" sizes="any">
+  <link rel="icon" href="../../assets/images/lonko-logo.png" type="image/png" sizes="72x72">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-53DPJ88F');</script>
+<!-- End Google Tag Manager -->
+  <title>Customer Acquisition Cost (CAC): Formula and Examples</title>
+  <meta name="description" content="Customer acquisition cost (CAC) explained: the formula, a worked example, which costs to include, CAC vs CPA, and what a good LTV to CAC ratio is.">
+  <link rel="canonical" href="https://lonkodigital.com/insights/customer-acquisition-cost/">
+  <meta property="og:title" content="Customer Acquisition Cost (CAC): Formula and Examples">
+  <meta property="og:description" content="Customer acquisition cost (CAC) explained: the formula, a worked example, which costs to include, CAC vs CPA, and what a good LTV to CAC ratio is.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://lonkodigital.com/insights/customer-acquisition-cost/">
+  <meta property="og:site_name" content="Lonko Digital">
+  <meta property="og:image" content="https://lonkodigital.com/insights/customer-acquisition-cost/assets/customer-acquisition-cost-banner-1200x630.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Customer icon beside stacked coins and a rising chart, with the headline Customer Acquisition Cost">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Customer Acquisition Cost (CAC): Formula and Examples">
+  <meta name="twitter:description" content="Customer acquisition cost (CAC) explained: the formula, a worked example, which costs to include, CAC vs CPA, and what a good LTV to CAC ratio is.">
+  <meta name="twitter:image" content="https://lonkodigital.com/insights/customer-acquisition-cost/assets/customer-acquisition-cost-banner-1200x630.png">
+  <script>
+    (function(){try{var k='lonko-public-appearance',p=localStorage.getItem(k)||'system',d=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',p==='system'?d:p);}catch(e){}}());
+  </script>
+  <link rel="preload" href="../../assets/fonts/source-serif-4-bold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="../../assets/fonts/source-serif-4-semibold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../../assets/css/site.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Customer Acquisition Cost (CAC): Formula, Examples and What to Include",
+  "description": "Customer acquisition cost (CAC) explained: the formula, a worked example, which costs to include, CAC vs CPA, and what a good LTV to CAC ratio is.",
+  "author": {
+    "@id": "https://lonkodigital.com/#organization"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Lonko Digital",
+    "@id": "https://lonkodigital.com/#organization",
+    "url": "https://lonkodigital.com/"
+  },
+  "mainEntityOfPage": "https://lonkodigital.com/insights/customer-acquisition-cost/",
+  "image": "https://lonkodigital.com/insights/customer-acquisition-cost/assets/customer-acquisition-cost-banner-1200x630.png",
+  "datePublished": "2026-11-20T00:00:00-06:00",
+  "dateModified": "2026-11-20T00:00:00-06:00",
+  "inLanguage": "en-US",
+  "isPartOf": {
+    "@id": "https://lonkodigital.com/#website"
+  }
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a good customer acquisition cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no single good number, because CAC only makes sense next to what a customer is worth. A useful test is the LTV to CAC ratio: a commonly cited benchmark, from David Skok's SaaS Metrics 2.0, is a lifetime value at least three times CAC. A CAC close to or above lifetime value is a warning sign."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between CAC and CPA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CAC is the total cost of winning one new paying customer, including ads, fees, tools and staff time. CPA is the cost of one conversion in an ad platform, such as a lead or a sign-up, and usually covers ad spend only. CPA helps you run campaigns; CAC tells you whether growth is profitable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you calculate CAC for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Add up a period's sales and marketing costs, including ad spend, agency fees, marketing tools and a fair share of your own or your staff's time spent winning customers. Divide by the number of new customers gained in the same period. Use the same rules every period so the trend is meaningful."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a good LTV to CAC ratio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The commonly cited benchmark is 3 to 1, from David Skok's SaaS Metrics 2.0, written for subscription software businesses. Treat it as a reference point. Below 1 to 1 means you spend more to win a customer than the customer is worth; well above 3 to 1 may mean you could invest more in growth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I lower my CAC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Turn more of your existing leads into customers by responding faster and following up, improve your landing pages, cut channels that do not produce customers, track conversions properly, and grow referrals and repeat business. Review agency fees and tools so every cost in your CAC is earning its place."
+      }
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://lonkodigital.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Insights",
+      "item": "https://lonkodigital.com/insights/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Customer Acquisition Cost (CAC): Formula, Examples and What to Include",
+      "item": "https://lonkodigital.com/insights/customer-acquisition-cost/"
+    }
+  ]
+}
+  </script>
+  <meta name="twitter:image:alt" content="Customer icon beside stacked coins and a rising chart, with the headline Customer Acquisition Cost">
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53DPJ88F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="../../">
+        <picture>
+          <source srcset="../../assets/images/lonko-logo.webp" type="image/webp">
+          <img class="brand-logo" src="../../assets/images/lonko-logo.png" alt="" width="36" height="36" decoding="async">
+        </picture>
+        <span>Lonko Digital</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation menu"><span class="nav-toggle-icon" aria-hidden="true"><span class="nav-toggle-line"></span><span class="nav-toggle-line"></span><span class="nav-toggle-line"></span></span></button>
+      <nav id="site-nav" class="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../">Home</a></li>
+          <li><a href="../../about/">About</a></li>
+          <li><a href="../../insights/" aria-current="page">Insights</a></li>
+          <li><a href="../../chronicles/">Chronicles</a></li>
+          <li><a href="../../contact/">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="header-actions">
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark theme">Theme</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" class="legal-page section--reading">
+    <article class="container narrow">
+      <nav class="breadcrumbs" aria-label="Breadcrumb"><ol><li><a href="../../">Home</a></li><li><a href="../">Insights</a></li><li aria-current="page">Customer Acquisition Cost (CAC): Formula, Examples and What to Include</li></ol></nav>
+      <h1>Customer Acquisition Cost (CAC): Formula, Examples and What to Include</h1>
+      <p class="article-pillar"><span class="read-time">10 min read</span></p>
+      <picture>
+        <source type="image/webp" srcset="assets/customer-acquisition-cost-banner-480.webp 480w, assets/customer-acquisition-cost-banner-768.webp 768w, assets/customer-acquisition-cost-banner-960.webp 960w, assets/customer-acquisition-cost-banner-1200.webp 1200w" sizes="(max-width: 672px) calc(100vw - 32px), 640px">
+        <img src="assets/customer-acquisition-cost-banner-1200x630.png" alt="Customer icon beside stacked coins and a rising chart, with the headline Customer Acquisition Cost" width="1200" height="630" fetchpriority="high" decoding="async">
+      </picture>
+      <div class="insight-body">
+<p><em>Last updated: November 20, 2026</em></p>
+<p>Customer acquisition cost (CAC) is the total amount you spend to win one new customer. To calculate it, add up everything you spent on sales and marketing in a period and divide by the number of new customers you gained in that same period. A business that spends $5,000 and wins 25 customers has a CAC of $200.</p>
+<p>That simple number answers a question every owner eventually asks: are we paying more to win customers than they are worth? This guide shows the formula, works through an example, lists which costs belong in it (the part most explanations skip), explains how CAC differs from cost per acquisition, and covers the LTV to CAC ratio and practical ways to lower your CAC.</p>
+<h2 id="the-customer-acquisition-cost-formula">The customer acquisition cost formula</h2>
+<p><strong>CAC = total sales and marketing costs in a period ÷ number of new customers gained in that period</strong></p>
+<p>Three rules keep the number honest:</p>
+<ul>
+<li><strong>Same period on both sides.</strong> If you count three months of costs, count three months of new customers.</li>
+<li><strong>New customers only.</strong> Repeat purchases and renewals from existing customers do not belong in the count.</li>
+<li><strong>All acquisition costs, not just ads.</strong> Ad spend is usually only part of the cost of winning a customer.</li>
+</ul>
+<h2 id="a-worked-example">A worked example</h2>
+<p><strong>Illustrative example (not a benchmark):</strong> a home services company reviews one quarter.</p>
+<div aria-labelledby="a-worked-example" class="article-table-wrap" role="region" tabindex="0"><table aria-labelledby="a-worked-example" class="article-table">
+<thead>
+<tr>
+<th scope="col">Cost (one quarter)</th>
+<th scope="col">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Google Ads spend</td>
+<td>$4,500</td>
+</tr>
+<tr>
+<td>Facebook and Instagram ads spend</td>
+<td>$1,500</td>
+</tr>
+<tr>
+<td>Agency management fee</td>
+<td>$2,400</td>
+</tr>
+<tr>
+<td>Marketing tools (CRM, call tracking, scheduling)</td>
+<td>$600</td>
+</tr>
+<tr>
+<td>Share of the office manager's time spent on sales calls</td>
+<td>$3,000</td>
+</tr>
+<tr>
+<td><strong>Total acquisition costs</strong></td>
+<td><strong>$12,000</strong></td>
+</tr>
+</tbody>
+</table></div>
+<p>The company gained 60 new customers in the quarter.</p>
+<p><strong>CAC = $12,000 ÷ 60 = $200 per customer.</strong></p>
+<p>Now look at what happens if the company counted ad spend only: $6,000 ÷ 60 = $100. That figure looks twice as good, and it is wrong. The fees, tools and staff time were all part of winning those customers.</p>
+<h2 id="which-costs-to-include-in-cac">Which costs to include in CAC</h2>
+<p>A useful CAC includes every cost you would not have if you stopped trying to win new customers. Typical items:</p>
+<ul>
+<li><strong>Advertising spend</strong> on every channel: search, social, display, directories and print.</li>
+<li><strong>Agency and freelancer fees</strong> for running campaigns, creating ads or managing SEO.</li>
+<li><strong>Marketing and sales software</strong>, such as a CRM, email platform, call tracking or scheduling tools, or the share used for acquisition.</li>
+<li><strong>Salaries and commissions</strong> for the time people spend on marketing and sales. In a small business, that often means a share of the owner's or office manager's time.</li>
+<li><strong>Content and creative</strong>, such as photography, video, design and written content.</li>
+<li><strong>Promotions and offers</strong> used to win first-time customers, such as a first-visit discount.</li>
+<li><strong>Events and sponsorships</strong> aimed at finding new customers.</li>
+</ul>
+<p>What to leave out: costs of serving existing customers, such as account management, customer support and loyalty programs. Those belong in the cost of keeping customers, not winning them.</p>
+<p>If you are unsure where a cost belongs, choose one rule, write it down and apply it the same way every period. A CAC that is calculated consistently is more useful than one that is calculated perfectly once.</p>
+<h2 id="cac-by-channel">CAC by channel</h2>
+<p>Your blended CAC covers every channel together. To decide where to put the next dollar, also calculate CAC for each channel: the costs of that channel divided by the new customers it produced.</p>
+<p>Ad platforms report cost per lead, not cost per customer, so you need your own close rate to get from one to the other:</p>
+<p><strong>Channel CAC (ads only) = cost per lead ÷ share of leads that become customers</strong></p>
+<p><strong>Illustrative example (not a benchmark):</strong> benchmark reports put the median cost per lead from Facebook lead campaigns at $27.66 (WordStream by LocaliQ, data April 2024 to June 2025, US) and the average cost per lead from search advertising at $66.69 (LocaliQ, 2026 benchmarks). These two figures come from different sources and periods, a median for Facebook lead campaigns and an average for search, so they are not a like-for-like comparison. If 1 in 5 Facebook leads and 1 in 3 search leads became customers, the ad cost per customer would be about $138 for Facebook and about $200 for search. With different close rates, the ranking could flip. That is why your own data matters more than any average.</p>
+<p>For what each platform costs and how its auction works, see our guides on <a href="/insights/facebook-instagram-ads-cost/">Facebook and Instagram ads cost</a> and <a href="/insights/how-much-does-google-ads-cost/">Google Ads cost</a>.</p>
+<h2 id="cac-vs-cost-per-acquisition-cpa">CAC vs cost per acquisition (CPA)</h2>
+<p>The two terms sound alike and are often confused. They measure different things.</p>
+<div aria-labelledby="cac-vs-cost-per-acquisition-cpa" class="article-table-wrap" role="region" tabindex="0"><table aria-labelledby="cac-vs-cost-per-acquisition-cpa" class="article-table">
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">Customer acquisition cost (CAC)</th>
+<th scope="col">Cost per acquisition (CPA)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>What it measures</td>
+<td>Total cost to win one new paying customer</td>
+<td>Cost of one conversion from an ad or campaign</td>
+</tr>
+<tr>
+<td>What counts as an "acquisition"</td>
+<td>A new customer</td>
+<td>Any action you define: a lead, a call, a sign-up or a sale</td>
+</tr>
+<tr>
+<td>Costs included</td>
+<td>All sales and marketing costs</td>
+<td>Usually ad spend only</td>
+</tr>
+<tr>
+<td>Where you find it</td>
+<td>Your own books and CRM</td>
+<td>Inside the ad platform</td>
+</tr>
+<tr>
+<td>Scope</td>
+<td>The whole business or a channel</td>
+<td>One campaign, ad group or ad</td>
+</tr>
+<tr>
+<td>Best used for</td>
+<td>Judging whether growth is profitable</td>
+<td>Optimizing campaigns day to day</td>
+</tr>
+</tbody>
+</table></div>
+<p>Google Ads defines average CPA as "the average amount you've been charged for a conversion from your ad," calculated by dividing the total cost of conversions by the number of conversions. A campaign can have a low CPA and the business can still have a high CAC, for example when many leads never buy, or when fees and staff time are large compared with ad spend.</p>
+<h2 id="the-ltv-to-cac-ratio">The LTV to CAC ratio</h2>
+<p>CAC means little on its own. A $500 CAC is expensive for a $60 haircut and cheap for a $15,000 kitchen remodel. The LTV to CAC ratio puts it in context by comparing what a customer is worth with what it cost to win them.</p>
+<p><strong>LTV to CAC ratio = customer lifetime value ÷ customer acquisition cost</strong></p>
+<p>Customer lifetime value (LTV) is the gross profit a customer brings in over the whole relationship. A simple version: average revenue per customer per year × gross margin × average number of years a customer stays.</p>
+<p><strong>Illustrative example (not a benchmark):</strong> a customer spends $1,200 a year at a 50% gross margin and stays for 2 years. LTV = $1,200 × 50% × 2 = $1,200. With the $200 CAC from the earlier example, the LTV to CAC ratio is 6 to 1.</p>
+<h3 id="what-is-a-good-ltv-to-cac-ratio">What is a good LTV to CAC ratio?</h3>
+<p>A commonly cited benchmark is 3 to 1. It comes from David Skok's "SaaS Metrics 2.0" on For Entrepreneurs (first published January 2013, updated June 2026), which says "the best SaaS businesses have a LTV to CAC ratio that is higher than 3, sometimes as high as 7 or 8."</p>
+<p>Two cautions. First, that guideline was written for subscription software businesses, so treat it as a reference point rather than a rule for every industry. Second, a ratio far above 3 to 1 is not always good news: it can mean you are underinvesting in growth and leaving customers to competitors. Skok's same article stresses that "these are only guidelines" and that there are situations where it makes sense to break them.</p>
+<p>A ratio near or below 1 to 1 is a clear warning. It means you spend about as much to win a customer as that customer is worth, or more.</p>
+<h2 id="how-to-lower-your-customer-acquisition-cost">How to lower your customer acquisition cost</h2>
+<p>Most ways to lower CAC fall into two groups: spend less per lead, or turn more leads into customers. The second is often cheaper.</p>
+<ol>
+<li><strong>Improve your close rate.</strong> Answer leads fast, follow up consistently and make it easy to book. Every extra customer from the same leads lowers CAC directly.</li>
+<li><strong>Fix the landing page.</strong> A clearer page with one obvious next step turns more visits into leads without raising ad spend.</li>
+<li><strong>Cut the channels and campaigns that do not produce customers.</strong> Use channel CAC, not clicks or cost per lead, to decide.</li>
+<li><strong>Track conversions properly.</strong> If you cannot see which campaigns produce customers, you cannot shift budget toward them. If your numbers suddenly look wrong, see <a href="/insights/google-ads-conversions-dropped/">what to check first when Google Ads conversions drop</a>.</li>
+<li><strong>Grow referrals and repeat business.</strong> Customers who come through referrals or come back cost far less to win, and longer relationships raise LTV, which improves the ratio from the other side.</li>
+<li><strong>Review fees and tools.</strong> Make sure every agency fee and subscription in your CAC is paying for itself. Our guide on <a href="/insights/is-your-google-ads-agency-doing-a-good-job/">how to tell if your Google Ads agency is doing a good job</a> can help with the first.</li>
+</ol>
+<h2 id="faq">FAQ</h2>
+<h3 id="what-is-a-good-customer-acquisition-cost">What is a good customer acquisition cost?</h3>
+<p>There is no single good number, because CAC only makes sense next to what a customer is worth. A useful test is the LTV to CAC ratio: a commonly cited benchmark, from David Skok's SaaS Metrics 2.0, is a lifetime value at least three times CAC. A CAC close to or above lifetime value is a warning sign.</p>
+<h3 id="what-is-the-difference-between-cac-and-cpa">What is the difference between CAC and CPA?</h3>
+<p>CAC is the total cost of winning one new paying customer, including ads, fees, tools and staff time. CPA is the cost of one conversion in an ad platform, such as a lead or a sign-up, and usually covers ad spend only. CPA helps you run campaigns; CAC tells you whether growth is profitable.</p>
+<h3 id="how-do-you-calculate-cac-for-a-small-business">How do you calculate CAC for a small business?</h3>
+<p>Add up a period's sales and marketing costs, including ad spend, agency fees, marketing tools and a fair share of your own or your staff's time spent winning customers. Divide by the number of new customers gained in the same period. Use the same rules every period so the trend is meaningful.</p>
+<h3 id="what-is-a-good-ltv-to-cac-ratio_1">What is a good LTV to CAC ratio?</h3>
+<p>The commonly cited benchmark is 3 to 1, from David Skok's SaaS Metrics 2.0, written for subscription software businesses. Treat it as a reference point. Below 1 to 1 means you spend more to win a customer than the customer is worth; well above 3 to 1 may mean you could invest more in growth.</p>
+<h3 id="how-can-i-lower-my-cac">How can I lower my CAC?</h3>
+<p>Turn more of your existing leads into customers by responding faster and following up, improve your landing pages, cut channels that do not produce customers, track conversions properly, and grow referrals and repeat business. Review agency fees and tools so every cost in your CAC is earning its place.</p>
+<h2 id="how-lonko-digital-looks-at-this">How Lonko Digital looks at this</h2>
+<p>What is happening is that each ad platform reports its own cost per lead, while profit depends on cost per customer. It matters because a cheap lead can still be an expensive customer. What to do next is calculate CAC with all costs included and compare it with what a customer is worth. At Lonko Digital, we are building tools to help business owners read signals like this, starting with Google Ads. The software is still in development and not available to customers yet. Read more <a href="/about/">about Lonko Digital</a>, browse our <a href="/insights/">Insights</a>, or start with <a href="/insights/how-much-does-google-ads-cost/">our Google Ads cost guide</a>. To get new pieces, <a href="/chronicles/#notes-heading">subscribe to Notes</a> or follow us on <a href="https://www.linkedin.com/company/lonko-digital/">LinkedIn</a> and <a href="https://www.facebook.com/LonkoDigital">Facebook</a>.</p>
+      </div>
+      <p class="article-back"><a href="../">← All Insights</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <p class="footer-name">Lonko Digital</p>
+        <p class="footer-tag">Growth intelligence and optimization for business owners and marketing leaders.</p>
+        <p class="footer-copy">&copy; <span id="year"></span> Lonko Digital. All rights reserved.</p>
+      </div>
+      <nav class="footer-links" aria-label="Footer">
+        <a href="../../about/">About</a>
+        <a href="../../privacy/">Privacy Policy</a>
+        <a href="../../terms/">Terms of Use</a>
+        <a href="../../contact/">Contact</a>
+      </nav>
+    </div>
+  </footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <script src="../../assets/js/site.js"></script>
+</body>
+</html>
